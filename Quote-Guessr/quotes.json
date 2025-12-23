@@ -1,0 +1,1682 @@
+[
+  {
+    "id": 1,
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "difficulty": "easy",
+    "source": "Interview (1980)"
+  },
+  {
+    "id": 2,
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "difficulty": "medium",
+    "source": "Autobiography"
+  },
+  {
+    "id": 3,
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "difficulty": "easy",
+    "source": "Business Philosophy"
+  },
+  {
+    "id": 4,
+    "text": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "difficulty": "medium",
+    "source": "Stanford Commencement (2005)"
+  },
+  {
+    "id": 5,
+    "text": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt",
+    "difficulty": "hard",
+    "source": "Autobiography"
+  },
+  {
+    "id": 6,
+    "text": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "author": "Oprah Winfrey",
+    "difficulty": "easy",
+    "source": "Talk Show"
+  },
+  {
+    "id": 7,
+    "text": "The purpose of our lives is to be happy and to add value to the world.",
+    "author": "Dalai Lama",
+    "difficulty": "hard",
+    "source": "Teachings"
+  },
+  {
+    "id": 8,
+    "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+    "author": "Mother Teresa",
+    "difficulty": "medium",
+    "source": "Teachings"
+  },
+  {
+    "id": 9,
+    "text": "When you reach the end of your rope, tie a knot in it and hang on.",
+    "author": "Franklin D. Roosevelt",
+    "difficulty": "hard",
+    "source": "Speech"
+  },
+  {
+    "id": 10,
+    "text": "Always remember that you are absolutely unique. Just like everyone else.",
+    "author": "Margaret Mead",
+    "difficulty": "medium",
+    "source": "Book"
+  },
+  {
+    "id": 11,
+    "text": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+    "author": "Robert Louis Stevenson",
+    "difficulty": "easy",
+    "source": "Literature"
+  },
+  {
+    "id": 12,
+    "text": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "difficulty": "easy",
+    "source": "Speech"
+  },
+  {
+    "id": 13,
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "difficulty": "medium",
+    "source": "Essays"
+  },
+  {
+    "id": 14,
+    "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+    "author": "Helen Keller",
+    "difficulty": "hard",
+    "source": "Autobiography"
+  },
+  {
+    "id": 15,
+    "text": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 16,
+    "text": "Whoever is happy will make others happy too.",
+    "author": "Anne Frank",
+    "difficulty": "easy",
+    "source": "Diary"
+  },
+  {
+    "id": 17,
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "difficulty": "hard",
+    "source": "Essays"
+  },
+  {
+    "id": 18,
+    "text": "There's some good in this world and it's worth fighting for.",
+    "author": "Samwise Gamgee",
+    "difficulty": "easy",
+    "source": "The Lord of the Rings: The Two Towers (2002)"
+  },
+  {
+    "id": 19,
+    "text": "After all, tomorrow is another day!",
+    "author": "Scarlett O'Hara",
+    "difficulty": "medium",
+    "source": "Gone with the Wind (1939)"
+  },
+  {
+    "id": 20,
+    "text": "I'm going to make him an offer he can't refuse.",
+    "author": "Vito Corleone",
+    "difficulty": "hard",
+    "source": "The Godfather (1972)"
+  },
+  {
+    "id": 21,
+    "text": "You can't handle the truth!",
+    "author": "Colonel Nathan Jessup",
+    "difficulty": "easy",
+    "source": "A Few Good Men (1992)"
+  },
+  {
+    "id": 22,
+    "text": "Here's looking at you, kid.",
+    "author": "Rick Blaine",
+    "difficulty": "medium",
+    "source": "Casablanca (1942)"
+  },
+  {
+    "id": 23,
+    "text": "May the Force be with you.",
+    "author": "Han Solo",
+    "difficulty": "hard",
+    "source": "Star Wars (1977)"
+  },
+  {
+    "id": 24,
+    "text": "I'll be back.",
+    "author": "The Terminator",
+    "difficulty": "easy",
+    "source": "The Terminator (1984)"
+  },
+  {
+    "id": 25,
+    "text": "Why so serious?",
+    "author": "The Joker",
+    "difficulty": "medium",
+    "source": "The Dark Knight (2008)"
+  },
+  {
+    "id": 26,
+    "text": "You is kind. You is smart. You is important.",
+    "author": "Aibileen Clark",
+    "difficulty": "hard",
+    "source": "The Help (2011)"
+  },
+  {
+    "id": 27,
+    "text": "The greatest trick the Devil ever pulled was convincing the world he didn't exist.",
+    "author": "Verbal Kint",
+    "difficulty": "medium",
+    "source": "The Usual Suspects (1995)"
+  },
+  {
+    "id": 28,
+    "text": "Show me the money!",
+    "author": "Rod Tidwell",
+    "difficulty": "easy",
+    "source": "Jerry Maguire (1996)"
+  },
+  {
+    "id": 29,
+    "text": "Houston, we have a problem.",
+    "author": "Jack Swigert",
+    "difficulty": "medium",
+    "source": "Apollo 13 (1995)"
+  },
+  {
+    "id": 30,
+    "text": "I wish I could go back to then. To choose not to take that shortcut.",
+    "author": "Andy Dufresne",
+    "difficulty": "hard",
+    "source": "The Shawshank Redemption (1994)"
+  },
+  {
+    "id": 31,
+    "text": "To infinity and beyond!",
+    "author": "Buzz Lightyear",
+    "difficulty": "easy",
+    "source": "Toy Story (1995)"
+  },
+  {
+    "id": 32,
+    "text": "I am your father.",
+    "author": "Darth Vader",
+    "difficulty": "medium",
+    "source": "The Empire Strikes Back (1980)"
+  },
+  {
+    "id": 33,
+    "text": "You talking to me?",
+    "author": "Travis Bickle",
+    "difficulty": "hard",
+    "source": "Taxi Driver (1976)"
+  },
+  {
+    "id": 34,
+    "text": "Everything you want is on the other side of fear.",
+    "author": "George Addair",
+    "difficulty": "easy",
+    "source": "Motivational Quote"
+  },
+  {
+    "id": 35,
+    "text": "The only way out is through.",
+    "author": "Robert Frost",
+    "difficulty": "medium",
+    "source": "Poetry"
+  },
+  {
+    "id": 36,
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "difficulty": "hard",
+    "source": "Letter"
+  },
+  {
+    "id": 37,
+    "text": "It was the best of times, it was the worst of times.",
+    "author": "Charles Dickens",
+    "difficulty": "easy",
+    "source": "A Tale of Two Cities"
+  },
+  {
+    "id": 38,
+    "text": "Call me Ishmael.",
+    "author": "Ishmael",
+    "difficulty": "medium",
+    "source": "Moby Dick"
+  },
+  {
+    "id": 39,
+    "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "author": "Jane Austen",
+    "difficulty": "hard",
+    "source": "Pride and Prejudice"
+  },
+  {
+    "id": 40,
+    "text": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "author": "Leo Tolstoy",
+    "difficulty": "medium",
+    "source": "Anna Karenina"
+  },
+  {
+    "id": 41,
+    "text": "It was love at first sight. The first time Yossarian saw the chaplain, he fell madly in love with him.",
+    "author": "Joseph Heller",
+    "difficulty": "hard",
+    "source": "Catch-22"
+  },
+  {
+    "id": 42,
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "difficulty": "easy",
+    "source": "Sports Quote"
+  },
+  {
+    "id": 43,
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "difficulty": "medium",
+    "source": "Inaugural Address (1933)"
+  },
+  {
+    "id": 44,
+    "text": "Ask not what your country can do for you – ask what you can do for your country.",
+    "author": "John F. Kennedy",
+    "difficulty": "hard",
+    "source": "Inaugural Address (1961)"
+  },
+  {
+    "id": 45,
+    "text": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+    "author": "Martin Luther King Jr.",
+    "difficulty": "medium",
+    "source": "I Have a Dream Speech (1963)"
+  },
+  {
+    "id": 46,
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "difficulty": "easy",
+    "source": "Attributed Quote"
+  },
+  {
+    "id": 47,
+    "text": "The greatest wealth is health.",
+    "author": "Virgil",
+    "difficulty": "medium",
+    "source": "Ancient Literature"
+  },
+  {
+    "id": 48,
+    "text": "What we think, we become.",
+    "author": "Buddha",
+    "difficulty": "hard",
+    "source": "Buddhist Teaching"
+  },
+  {
+    "id": 49,
+    "text": "Suffering is not inevitable when embraced with wisdom and compassion.",
+    "author": "Various",
+    "difficulty": "easy",
+    "source": "Buddhist Proverb"
+  },
+  {
+    "id": 50,
+    "text": "No act of kindness, no matter how small, is ever wasted.",
+    "author": "Aesop",
+    "difficulty": "medium",
+    "source": "Fables"
+  },
+  {
+    "id": 51,
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+    "author": "Aristotle",
+    "difficulty": "hard",
+    "source": "Nicomachean Ethics"
+  },
+  {
+    "id": 52,
+    "text": "The only thing constant in life is change.",
+    "author": "Heraclitus",
+    "difficulty": "medium",
+    "source": "Ancient Philosophy"
+  },
+  {
+    "id": 53,
+    "text": "Cogito, ergo sum.",
+    "author": "René Descartes",
+    "difficulty": "hard",
+    "source": "Discourse on Method"
+  },
+  {
+    "id": 54,
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "difficulty": "easy",
+    "source": "Essays"
+  },
+  {
+    "id": 55,
+    "text": "The pen is mightier than the sword.",
+    "author": "Edward Bulwer-Lytton",
+    "difficulty": "medium",
+    "source": "Richelieu"
+  },
+  {
+    "id": 56,
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "difficulty": "hard",
+    "source": "Teachings"
+  },
+  {
+    "id": 57,
+    "text": "The early bird catches the worm.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Common Saying"
+  },
+  {
+    "id": 58,
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "difficulty": "medium",
+    "source": "Ancient Philosophy"
+  },
+  {
+    "id": 59,
+    "text": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare",
+    "difficulty": "hard",
+    "source": "Hamlet"
+  },
+  {
+    "id": 60,
+    "text": "All the world's a stage, and all the men and women merely players.",
+    "author": "William Shakespeare",
+    "difficulty": "medium",
+    "source": "As You Like It"
+  },
+  {
+    "id": 61,
+    "text": "Something is rotten in the state of Denmark.",
+    "author": "William Shakespeare",
+    "difficulty": "hard",
+    "source": "Hamlet"
+  },
+  {
+    "id": 62,
+    "text": "What a wonderful world this could be.",
+    "author": "Louis Armstrong",
+    "difficulty": "easy",
+    "source": "What a Wonderful World (1967)"
+  },
+  {
+    "id": 63,
+    "text": "Imagine all the people living life in peace.",
+    "author": "John Lennon",
+    "difficulty": "medium",
+    "source": "Imagine (1971)"
+  },
+  {
+    "id": 64,
+    "text": "I've paid my dues, time after time.",
+    "author": "Freddie Mercury",
+    "difficulty": "hard",
+    "source": "We Are the Champions (1977)"
+  },
+  {
+    "id": 65,
+    "text": "Life is like a box of chocolates, you never know what you're gonna get.",
+    "author": "Forrest Gump",
+    "difficulty": "easy",
+    "source": "Forrest Gump (1994)"
+  },
+  {
+    "id": 66,
+    "text": "Just keep swimming.",
+    "author": "Dory",
+    "difficulty": "medium",
+    "source": "Finding Nemo (2003)"
+  },
+  {
+    "id": 67,
+    "text": "The lion sleeps tonight.",
+    "author": "The Lion Sleeps Tonight",
+    "difficulty": "hard",
+    "source": "Song (1961)"
+  },
+  {
+    "id": 68,
+    "text": "I want to break free.",
+    "author": "Queen",
+    "difficulty": "easy",
+    "source": "Song (1984)"
+  },
+  {
+    "id": 69,
+    "text": "Don't stop me now, I'm having such a good time.",
+    "author": "Freddie Mercury",
+    "difficulty": "medium",
+    "source": "Song (1978)"
+  },
+  {
+    "id": 70,
+    "text": "One does not simply walk into Mordor.",
+    "author": "Boromir",
+    "difficulty": "hard",
+    "source": "The Lord of the Rings: The Fellowship of the Ring (2001)"
+  },
+  {
+    "id": 71,
+    "text": "Winter is coming.",
+    "author": "House Stark",
+    "difficulty": "easy",
+    "source": "Game of Thrones (2011)"
+  },
+  {
+    "id": 72,
+    "text": "That's what I love about these high school girls, man. I get older, they stay the same age.",
+    "author": "Wooderson",
+    "difficulty": "medium",
+    "source": "Dazed and Confused (1993)"
+  },
+  {
+    "id": 73,
+    "text": "You can't just ask people why they're white, Karen!",
+    "author": "Damian Leigh",
+    "difficulty": "hard",
+    "source": "Mean Girls (2004)"
+  },
+  {
+    "id": 74,
+    "text": "That's hot.",
+    "author": "Paris Hilton",
+    "difficulty": "easy",
+    "source": "The Simple Life (2003)"
+  },
+  {
+    "id": 75,
+    "text": "I'm not superstitious, but I am a little stitious.",
+    "author": "Michael Scott",
+    "difficulty": "medium",
+    "source": "The Office (2005)"
+  },
+  {
+    "id": 76,
+    "text": "Bears. Beets. Battlestar Galactica.",
+    "author": "Jim Halpert",
+    "difficulty": "hard",
+    "source": "The Office (2006)"
+  },
+  {
+    "id": 77,
+    "text": "How you doin'?",
+    "author": "Joey Tribbiani",
+    "difficulty": "easy",
+    "source": "Friends (1995)"
+  },
+  {
+    "id": 78,
+    "text": "We were on a break!",
+    "author": "Ross Geller",
+    "difficulty": "medium",
+    "source": "Friends (1997)"
+  },
+  {
+    "id": 79,
+    "text": "Could I BE any more sarcastic?",
+    "author": "Chandler Bing",
+    "difficulty": "hard",
+    "source": "Friends (1998)"
+  },
+  {
+    "id": 80,
+    "text": "Yippee-ki-yay, motherf***er.",
+    "author": "John McClane",
+    "difficulty": "easy",
+    "source": "Die Hard (1988)"
+  },
+  {
+    "id": 81,
+    "text": "Frankly, my dear, I don't give a damn.",
+    "author": "Rhett Butler",
+    "difficulty": "medium",
+    "source": "Gone with the Wind (1939)"
+  },
+  {
+    "id": 82,
+    "text": "Here's Johnny!",
+    "author": "Jack Torrance",
+    "difficulty": "hard",
+    "source": "The Shining (1980)"
+  },
+  {
+    "id": 83,
+    "text": "The truth is out there.",
+    "author": "FBI Slogan",
+    "difficulty": "easy",
+    "source": "The X-Files (1993)"
+  },
+  {
+    "id": 84,
+    "text": "That which does not kill me makes me stronger.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Twilight of the Idols"
+  },
+  {
+    "id": 85,
+    "text": "It is not the mountain we conquer, but ourselves.",
+    "author": "Edmund Hillary",
+    "difficulty": "hard",
+    "source": "Mountaineering"
+  },
+  {
+    "id": 86,
+    "text": "Go big or go home.",
+    "author": "Sports Mantra",
+    "difficulty": "easy",
+    "source": "Motivational Saying"
+  },
+  {
+    "id": 87,
+    "text": "The only true wisdom is in knowing you know nothing.",
+    "author": "Socrates",
+    "difficulty": "medium",
+    "source": "Plato's Apology"
+  },
+  {
+    "id": 88,
+    "text": "I'm Batman.",
+    "author": "Bruce Wayne",
+    "difficulty": "hard",
+    "source": "Batman Begins (2005)"
+  },
+  {
+    "id": 89,
+    "text": "With great power comes great responsibility.",
+    "author": "Uncle Ben",
+    "difficulty": "easy",
+    "source": "Spider-Man (2002)"
+  },
+  {
+    "id": 90,
+    "text": "I'll have what she's having.",
+    "author": "Old Lady",
+    "difficulty": "medium",
+    "source": "When Harry Met Sally (1989)"
+  },
+  {
+    "id": 91,
+    "text": "The stuff that dreams are made of.",
+    "author": "Sam Spade",
+    "difficulty": "hard",
+    "source": "The Maltese Falcon (1941)"
+  },
+  {
+    "id": 92,
+    "text": "Carpe diem. Seize the day, boys.",
+    "author": "John Keating",
+    "difficulty": "easy",
+    "source": "Dead Poets Society (1989)"
+  },
+  {
+    "id": 93,
+    "text": "Mrs. Robinson, you're trying to seduce me.",
+    "author": "Benjamin Braddock",
+    "difficulty": "medium",
+    "source": "The Graduate (1967)"
+  },
+  {
+    "id": 94,
+    "text": "They call it a Royale with Cheese.",
+    "author": "Vincent Vega",
+    "difficulty": "hard",
+    "source": "Pulp Fiction (1994)"
+  },
+  {
+    "id": 95,
+    "text": "The most dangerous game is love.",
+    "author": "Various",
+    "difficulty": "easy",
+    "source": "Proverb"
+  },
+  {
+    "id": 96,
+    "text": "The road not taken.",
+    "author": "Robert Frost",
+    "difficulty": "medium",
+    "source": "The Road Not Taken (1916)"
+  },
+  {
+    "id": 97,
+    "text": "Do or do not. There is no try.",
+    "author": "Yoda",
+    "difficulty": "hard",
+    "source": "The Empire Strikes Back (1980)"
+  },
+  {
+    "id": 98,
+    "text": "I am legend.",
+    "author": "Robert Neville",
+    "difficulty": "medium",
+    "source": "I Am Legend (2007)"
+  },
+  {
+    "id": 99,
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "difficulty": "hard",
+    "source": "Buddhist Teaching"
+  },
+  {
+    "id": 100,
+    "text": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+    "author": "Martin Luther King Jr.",
+    "difficulty": "medium",
+    "source": "Civil Rights Teaching"
+  },
+  {
+    "id": 101,
+    "text": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "difficulty": "easy",
+    "source": "Stanford Commencement (2005)"
+  },
+  {
+    "id": 102,
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci",
+    "difficulty": "hard",
+    "source": "Art Philosophy"
+  },
+  {
+    "id": 103,
+    "text": "Life is either a daring adventure or nothing at all.",
+    "author": "Helen Keller",
+    "difficulty": "medium",
+    "source": "Autobiography"
+  },
+  {
+    "id": 104,
+    "text": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+    "author": "William Saroyan",
+    "difficulty": "hard",
+    "source": "Essays"
+  },
+  {
+    "id": 105,
+    "text": "Every moment is a fresh beginning.",
+    "author": "T.S. Eliot",
+    "difficulty": "easy",
+    "source": "Poetry"
+  },
+  {
+    "id": 106,
+    "text": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "difficulty": "hard",
+    "source": "Poetry"
+  },
+  {
+    "id": 107,
+    "text": "There is no greater agony than bearing an untold story inside you.",
+    "author": "Maya Angelou",
+    "difficulty": "medium",
+    "source": "I Know Why the Caged Bird Sings"
+  },
+  {
+    "id": 108,
+    "text": "We cannot live only for ourselves. A thousand fibers connect us with our fellow men and women; and among those fibers, as sympathetic threads, we feel every act and word.",
+    "author": "Herman Melville",
+    "difficulty": "hard",
+    "source": "Literature"
+  },
+  {
+    "id": 109,
+    "text": "To love oneself is the beginning of a lifelong romance.",
+    "author": "Oscar Wilde",
+    "difficulty": "easy",
+    "source": "Attributed Quote"
+  },
+  {
+    "id": 110,
+    "text": "The cave you fear to enter holds the treasure you seek.",
+    "author": "Joseph Campbell",
+    "difficulty": "hard",
+    "source": "The Hero's Journey"
+  },
+  {
+    "id": 111,
+    "text": "You are not a drop in the ocean. You are the entire ocean in a drop.",
+    "author": "Rumi",
+    "difficulty": "medium",
+    "source": "Sufi Poetry"
+  },
+  {
+    "id": 112,
+    "text": "The greatest glory in living lies not in never failing, but in rising every time we fail.",
+    "author": "Ralph Waldo Emerson",
+    "difficulty": "hard",
+    "source": "Essays"
+  },
+  {
+    "id": 113,
+    "text": "Not all those who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "difficulty": "easy",
+    "source": "The Lord of the Rings"
+  },
+  {
+    "id": 114,
+    "text": "The day you stop racing is the day you win the race.",
+    "author": "Bob Marley",
+    "difficulty": "medium",
+    "source": "Reggae Philosophy"
+  },
+  {
+    "id": 115,
+    "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+    "author": "Ralph Waldo Emerson",
+    "difficulty": "hard",
+    "source": "Essays"
+  },
+  {
+    "id": 116,
+    "text": "Sometimes it falls upon a generation to be great. You can be that great generation.",
+    "author": "Nelson Mandela",
+    "difficulty": "medium",
+    "source": "Speech"
+  },
+  {
+    "id": 117,
+    "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate.",
+    "author": "Ralph Waldo Emerson",
+    "difficulty": "hard",
+    "source": "Essays"
+  },
+  {
+    "id": 118,
+    "text": "Beauty is not about having a perfect body. It is about having a perfect attitude.",
+    "author": "Various",
+    "difficulty": "easy",
+    "source": "Motivational Quote"
+  },
+  {
+    "id": 119,
+    "text": "The cure for anything is salt water: sweat, tears, or the sea.",
+    "author": "Isak Dinesen",
+    "difficulty": "medium",
+    "source": "Literature"
+  },
+  {
+    "id": 120,
+    "text": "Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.",
+    "author": "Bill Keane",
+    "difficulty": "hard",
+    "source": "The Family Circus"
+  },
+  {
+    "id": 121,
+    "text": "Try to be a rainbow in someone's cloud.",
+    "author": "Maya Angelou",
+    "difficulty": "easy",
+    "source": "Writings"
+  },
+  {
+    "id": 122,
+    "text": "We are dying from overthinking. We are slowly killing ourselves by drowning in our thoughts.",
+    "author": "Warsan Shire",
+    "difficulty": "medium",
+    "source": "Poetry"
+  },
+  {
+    "id": 123,
+    "text": "Everything we want is just outside our comfort zone.",
+    "author": "Robert Allen",
+    "difficulty": "hard",
+    "source": "Self-Help"
+  },
+  {
+    "id": 124,
+    "text": "You don't have to see the whole staircase, just take the first step.",
+    "author": "Martin Luther King Jr.",
+    "difficulty": "easy",
+    "source": "Civil Rights Speech"
+  },
+  {
+    "id": 125,
+    "text": "The only prison people live in is the fear of what other people think.",
+    "author": "Bill Murray",
+    "difficulty": "medium",
+    "source": "Interview"
+  },
+  {
+    "id": 126,
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "difficulty": "hard",
+    "source": "Buddhist Teaching"
+  },
+  {
+    "id": 127,
+    "text": "The greatest discovery of all time is that a person can change their future by merely changing their attitude.",
+    "author": "Oprah Winfrey",
+    "difficulty": "medium",
+    "source": "Self-Discovery"
+  },
+  {
+    "id": 128,
+    "text": "Stop trying to make everyone else happy and focus on making yourself a better person.",
+    "author": "Various",
+    "difficulty": "easy",
+    "source": "Self-Help"
+  },
+  {
+    "id": 129,
+    "text": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+    "author": "Rumi",
+    "difficulty": "hard",
+    "source": "Sufi Poetry"
+  },
+  {
+    "id": 130,
+    "text": "A person is not finished when they are defeated. They are finished when they quit.",
+    "author": "Richard Nixon",
+    "difficulty": "medium",
+    "source": "Politics"
+  },
+  {
+    "id": 131,
+    "text": "The only limits that really matter are the ones we accept in our minds.",
+    "author": "Various",
+    "difficulty": "hard",
+    "source": "Motivational Quote"
+  },
+  {
+    "id": 132,
+    "text": "We are made of stardust, and the atoms in our bodies are as old as the universe itself.",
+    "author": "Carl Sagan",
+    "difficulty": "easy",
+    "source": "Cosmos"
+  },
+  {
+    "id": 133,
+    "text": "Do what you feel in your heart to be right. For you'll be criticized anyway.",
+    "author": "Eleanor Roosevelt",
+    "difficulty": "medium",
+    "source": "Wisdom"
+  },
+  {
+    "id": 134,
+    "text": "Your purpose in life is not just to be happy. It is to be happy, and to make a difference.",
+    "author": "Oprah Winfrey",
+    "difficulty": "hard",
+    "source": "Life Philosophy"
+  },
+  {
+    "id": 135,
+    "text": "The person who says it cannot be done should not interrupt the person doing it.",
+    "author": "Chinese Proverb",
+    "difficulty": "easy",
+    "source": "Ancient Wisdom"
+  },
+  {
+    "id": 136,
+    "text": "In every moment of doubt, ask yourself: Who am I becoming?",
+    "author": "Various",
+    "difficulty": "medium",
+    "source": "Self-Reflection"
+  },
+  {
+    "id": 137,
+    "text": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "difficulty": "hard",
+    "source": "Advice"
+  },
+  {
+    "id": 138,
+    "text": "The struggle itself toward the heights is enough to fill a man's heart.",
+    "author": "Albert Camus",
+    "difficulty": "medium",
+    "source": "The Myth of Sisyphus"
+  },
+  {
+    "id": 139,
+    "text": "We accept the love we think we deserve.",
+    "author": "Stephen Chbosky",
+    "difficulty": "hard",
+    "source": "The Perks of Being a Wallflower"
+  },
+  {
+    "id": 140,
+    "text": "Remember that you are not alone in whatever you do. Life is a journey, not a destination.",
+    "author": "Various",
+    "difficulty": "easy",
+    "source": "Life Philosophy"
+  },
+  {
+    "id": 141,
+    "text": "I'll be back.",
+    "author": "The Terminator",
+    "difficulty": "easy",
+    "source": "The Terminator (1984)"
+  },
+  {
+    "id": 142,
+    "text": "May the Force be with you.",
+    "author": "Star Wars",
+    "difficulty": "easy",
+    "source": "Star Wars (George Lucas)"
+  },
+  {
+    "id": 143,
+    "text": "Life is like a box of chocolates.",
+    "author": "Forrest Gump",
+    "difficulty": "easy",
+    "source": "Forrest Gump (1994)"
+  },
+  {
+    "id": 144,
+    "text": "To be, or not to be: that is the question.",
+    "author": "William Shakespeare",
+    "difficulty": "easy",
+    "source": "Hamlet"
+  },
+  {
+    "id": 145,
+    "text": "Houston, we have a problem.",
+    "author": "Apollo 13",
+    "difficulty": "easy",
+    "source": "Apollo 13 Film (1995)"
+  },
+  {
+    "id": 146,
+    "text": "Elementary, my dear Watson.",
+    "author": "Arthur Conan Doyle",
+    "difficulty": "easy",
+    "source": "Sherlock Holmes"
+  },
+  {
+    "id": 147,
+    "text": "You talking to me?",
+    "author": "Taxi Driver",
+    "difficulty": "easy",
+    "source": "Taxi Driver (1976)"
+  },
+  {
+    "id": 148,
+    "text": "I have a dream.",
+    "author": "Martin Luther King Jr.",
+    "difficulty": "easy",
+    "source": "Civil Rights Speech (1963)"
+  },
+  {
+    "id": 149,
+    "text": "Just keep swimming.",
+    "author": "Finding Nemo",
+    "difficulty": "easy",
+    "source": "Pixar (2003)"
+  },
+  {
+    "id": 150,
+    "text": "Why so serious?",
+    "author": "The Dark Knight",
+    "difficulty": "easy",
+    "source": "The Dark Knight (2008)"
+  },
+  {
+    "id": 151,
+    "text": "My precious.",
+    "author": "J. R. R. Tolkien",
+    "difficulty": "easy",
+    "source": "The Lord of the Rings"
+  },
+  {
+    "id": 152,
+    "text": "Carpe diem. Seize the day.",
+    "author": "Horace",
+    "difficulty": "easy",
+    "source": "Odes / Dead Poets Society"
+  },
+  {
+    "id": 153,
+    "text": "I see dead people.",
+    "author": "The Sixth Sense",
+    "difficulty": "easy",
+    "source": "The Sixth Sense (1999)"
+  },
+  {
+    "id": 154,
+    "text": "Hasta la vista, baby.",
+    "author": "Terminator 2",
+    "difficulty": "easy",
+    "source": "Terminator 2 (1991)"
+  },
+  {
+    "id": 155,
+    "text": "Here's looking at you, kid.",
+    "author": "Casablanca",
+    "difficulty": "easy",
+    "source": "Casablanca (1942)"
+  },
+  {
+    "id": 156,
+    "text": "Bond. James Bond.",
+    "author": "James Bond",
+    "difficulty": "easy",
+    "source": "James Bond (Ian Fleming)"
+  },
+  {
+    "id": 157,
+    "text": "With great power comes great responsibility.",
+    "author": "Stan Lee",
+    "difficulty": "easy",
+    "source": "Spider-Man"
+  },
+  {
+    "id": 158,
+    "text": "Keep your friends close, but your enemies closer.",
+    "author": "The Godfather Part II",
+    "difficulty": "easy",
+    "source": "The Godfather Part II (1974)"
+  },
+  {
+    "id": 159,
+    "text": "I'm king of the world!",
+    "author": "Titanic",
+    "difficulty": "easy",
+    "source": "Titanic (1997)"
+  },
+  {
+    "id": 160,
+    "text": "You can't handle the truth!",
+    "author": "A Few Good Men",
+    "difficulty": "easy",
+    "source": "A Few Good Men (1992)"
+  },
+  {
+    "id": 161,
+    "text": "To infinity and beyond!",
+    "author": "Toy Story",
+    "difficulty": "easy",
+    "source": "Toy Story (Pixar)"
+  },
+  {
+    "id": 162,
+    "text": "That's one small step for man.",
+    "author": "Neil Armstrong",
+    "difficulty": "easy",
+    "source": "Moon Landing (1969)"
+  },
+  {
+    "id": 163,
+    "text": "I am your father.",
+    "author": "The Empire Strikes Back",
+    "difficulty": "easy",
+    "source": "Star Wars (1980)"
+  },
+  {
+    "id": 164,
+    "text": "Say hello to my little friend!",
+    "author": "Scarface",
+    "difficulty": "easy",
+    "source": "Scarface (1983)"
+  },
+  {
+    "id": 165,
+    "text": "Frankly, my dear, I don't give a damn.",
+    "author": "Gone with the Wind",
+    "difficulty": "easy",
+    "source": "Gone with the Wind (1939)"
+  },
+  {
+    "id": 166,
+    "text": "Man is condemned to be free.",
+    "author": "Jean-Paul Sartre",
+    "difficulty": "hard",
+    "source": "Being and Nothingness"
+  },
+  {
+    "id": 167,
+    "text": "History is written by the victors.",
+    "author": "Winston Churchill",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 168,
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates",
+    "difficulty": "hard",
+    "source": "Apology"
+  },
+  {
+    "id": 169,
+    "text": "Hell is other people.",
+    "author": "Jean-Paul Sartre",
+    "difficulty": "hard",
+    "source": "No Exit"
+  },
+  {
+    "id": 170,
+    "text": "We are what we repeatedly do.",
+    "author": "Aristotle",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 171,
+    "text": "A room without books is like a body without a soul.",
+    "author": "Cicero",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 172,
+    "text": "All models are wrong, but some are useful.",
+    "author": "George Box",
+    "difficulty": "hard",
+    "source": "Statistics"
+  },
+  {
+    "id": 173,
+    "text": "The medium is the message.",
+    "author": "Marshall McLuhan",
+    "difficulty": "hard",
+    "source": "Understanding Media"
+  },
+  {
+    "id": 174,
+    "text": "Those who control the present control the past.",
+    "author": "George Orwell",
+    "difficulty": "hard",
+    "source": "1984"
+  },
+  {
+    "id": 175,
+    "text": "One cannot step twice into the same river.",
+    "author": "Heraclitus",
+    "difficulty": "hard",
+    "source": "Philosophy"
+  },
+  {
+    "id": 176,
+    "text": "Madness is rare in individuals—but common in groups.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 177,
+    "text": "The limits of my language mean the limits of my world.",
+    "author": "Ludwig Wittgenstein",
+    "difficulty": "hard",
+    "source": "Tractatus"
+  },
+  {
+    "id": 178,
+    "text": "Power tends to corrupt.",
+    "author": "Lord Acton",
+    "difficulty": "hard",
+    "source": "Letter (1887)"
+  },
+  {
+    "id": 179,
+    "text": "Man is born free, and everywhere he is in chains.",
+    "author": "Jean-Jacques Rousseau",
+    "difficulty": "hard",
+    "source": "The Social Contract"
+  },
+  {
+    "id": 180,
+    "text": "The only thing necessary for evil to triumph is for good men to do nothing.",
+    "author": "Edmund Burke",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 181,
+    "text": "Time is an illusion.",
+    "author": "Albert Einstein",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 182,
+    "text": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 183,
+    "text": "The greatest tyranny is the tyranny of the majority.",
+    "author": "Alexis de Tocqueville",
+    "difficulty": "hard",
+    "source": "Democracy in America"
+  },
+  {
+    "id": 184,
+    "text": "We live as we dream—alone.",
+    "author": "Joseph Conrad",
+    "difficulty": "hard",
+    "source": "Heart of Darkness"
+  },
+  {
+    "id": 185,
+    "text": "The past is never dead. It's not even past.",
+    "author": "William Faulkner",
+    "difficulty": "hard",
+    "source": "Requiem for a Nun"
+  },
+  {
+    "id": 186,
+    "text": "What we know is a drop, what we don't know is an ocean.",
+    "author": "Isaac Newton",
+    "difficulty": "hard",
+    "source": "Attributed"
+  },
+  {
+    "id": 187,
+    "text": "Man makes plans, and God laughs.",
+    "author": "Jiddish Proverb",
+    "difficulty": "hard",
+    "source": "Yiddish Proverb"
+  },
+  {
+    "id": 188,
+    "text": "There is no greater agony than bearing an untold story.",
+    "author": "Maya Angelou",
+    "difficulty": "hard",
+    "source": "I Know Why the Caged Bird Sings"
+  },
+  {
+    "id": 189,
+    "text": "Reality is that which, when you stop believing in it, doesn't go away.",
+    "author": "Philip K. Dick",
+    "difficulty": "hard",
+    "source": "Philosophy"
+  },
+  {
+    "id": 190,
+    "text": "The map is not the territory.",
+    "author": "Alfred Korzybski",
+    "difficulty": "hard",
+    "source": "General Semantics"
+  },
+  {
+    "id": 191,
+    "text": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "difficulty": "easy",
+    "source": "Attributed Quote"
+  },
+  {
+    "id": 192,
+    "text": "Knowledge is power.",
+    "author": "Francis Bacon",
+    "difficulty": "easy",
+    "source": "Essays"
+  },
+  {
+    "id": 193,
+    "text": "The only thing we have to fear is fear itself.",
+    "author": "Franklin D. Roosevelt",
+    "difficulty": "easy",
+    "source": "Inaugural Address (1933)"
+  },
+  {
+    "id": 194,
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "easy",
+    "source": "Philosophy"
+  },
+  {
+    "id": 195,
+    "text": "Practice makes perfect.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Common Saying"
+  },
+  {
+    "id": 196,
+    "text": "Time is money.",
+    "author": "Benjamin Franklin",
+    "difficulty": "easy",
+    "source": "Essays"
+  },
+  {
+    "id": 197,
+    "text": "The pen is mightier than the sword.",
+    "author": "Edward Bulwer-Lytton",
+    "difficulty": "easy",
+    "source": "Richelieu"
+  },
+  {
+    "id": 198,
+    "text": "All you need is love.",
+    "author": "The Beatles",
+    "difficulty": "easy",
+    "source": "Song (1967)"
+  },
+  {
+    "id": 199,
+    "text": "Fortune favors the bold.",
+    "author": "Virgil",
+    "difficulty": "easy",
+    "source": "Aeneid"
+  },
+  {
+    "id": 200,
+    "text": "No pain, no gain.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Fitness Saying"
+  },
+  {
+    "id": 201,
+    "text": "The early bird catches the worm.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Common Saying"
+  },
+  {
+    "id": 202,
+    "text": "Actions speak louder than words.",
+    "author": "Abraham Lincoln",
+    "difficulty": "easy",
+    "source": "Attributed"
+  },
+  {
+    "id": 203,
+    "text": "If you want peace, prepare for war.",
+    "author": "Vegetius",
+    "difficulty": "easy",
+    "source": "De Re Militari"
+  },
+  {
+    "id": 204,
+    "text": "The truth will set you free.",
+    "author": "Bible",
+    "difficulty": "easy",
+    "source": "John 8:32"
+  },
+  {
+    "id": 205,
+    "text": "What goes around comes around.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Karma Saying"
+  },
+  {
+    "id": 206,
+    "text": "Power corrupts; absolute power corrupts absolutely.",
+    "author": "Lord Acton",
+    "difficulty": "easy",
+    "source": "Letter"
+  },
+  {
+    "id": 207,
+    "text": "Less is more.",
+    "author": "Ludwig Mies van der Rohe",
+    "difficulty": "easy",
+    "source": "Architecture"
+  },
+  {
+    "id": 208,
+    "text": "When in Rome, do as the Romans do.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Common Saying"
+  },
+  {
+    "id": 209,
+    "text": "United we stand, divided we fall.",
+    "author": "Aesop",
+    "difficulty": "easy",
+    "source": "Fables"
+  },
+  {
+    "id": 210,
+    "text": "Success is the best revenge.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Motivational"
+  },
+  {
+    "id": 211,
+    "text": "Seeing is believing.",
+    "author": "Proverb",
+    "difficulty": "easy",
+    "source": "Common Saying"
+  },
+  {
+    "id": 212,
+    "text": "All's fair in love and war.",
+    "author": "John Lyly",
+    "difficulty": "easy",
+    "source": "Euphues"
+  },
+  {
+    "id": 213,
+    "text": "Hope is a good thing.",
+    "author": "The Shawshank Redemption",
+    "difficulty": "easy",
+    "source": "Film (1994)"
+  },
+  {
+    "id": 214,
+    "text": "Every journey begins with a single step.",
+    "author": "Laozi",
+    "difficulty": "easy",
+    "source": "Tao Te Ching"
+  },
+  {
+    "id": 215,
+    "text": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "difficulty": "easy",
+    "source": "Sports Quote"
+  },
+  {
+    "id": 216,
+    "text": "The owl of Minerva spreads its wings only with the falling of the dusk.",
+    "author": "G. W. F. Hegel",
+    "difficulty": "medium",
+    "source": "Philosophy of Right"
+  },
+  {
+    "id": 217,
+    "text": "Man suffers only because he takes seriously what the gods made for fun.",
+    "author": "Alan Watts",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 218,
+    "text": "Freedom is the freedom to say that two plus two make four.",
+    "author": "George Orwell",
+    "difficulty": "medium",
+    "source": "1984"
+  },
+  {
+    "id": 219,
+    "text": "The brave man is he who overcomes not only his enemies but his pleasures.",
+    "author": "Democritus",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 220,
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 221,
+    "text": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "difficulty": "medium",
+    "source": "Poetry"
+  },
+  {
+    "id": 222,
+    "text": "Man is something that shall be overcome.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Thus Spoke Zarathustra"
+  },
+  {
+    "id": 223,
+    "text": "The greatest enemy of knowledge is the illusion of knowledge.",
+    "author": "Stephen Hawking",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 224,
+    "text": "To live is to suffer, to survive is to find meaning in the suffering.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 225,
+    "text": "The individual has always had to struggle to keep from being overwhelmed by the tribe.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 226,
+    "text": "We are all in the gutter, but some of us are looking at the stars.",
+    "author": "Oscar Wilde",
+    "difficulty": "medium",
+    "source": "Lady Windermere's Fan"
+  },
+  {
+    "id": 227,
+    "text": "The price of anything is the amount of life you exchange for it.",
+    "author": "Henry David Thoreau",
+    "difficulty": "medium",
+    "source": "Walden"
+  },
+  {
+    "id": 228,
+    "text": "A man who dares to waste one hour of time has not discovered the value of life.",
+    "author": "Charles Darwin",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 229,
+    "text": "You cannot find peace by avoiding life.",
+    "author": "Virginia Woolf",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 230,
+    "text": "It is not the strongest of the species that survives.",
+    "author": "Charles Darwin",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 231,
+    "text": "The surest way to corrupt a youth is to instruct him to hold in higher esteem those who think alike.",
+    "author": "Friedrich Nietzsche",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 232,
+    "text": "The opposite of love is not hate, but indifference.",
+    "author": "Elie Wiesel",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 233,
+    "text": "We do not remember days, we remember moments.",
+    "author": "Cesare Pavese",
+    "difficulty": "medium",
+    "source": "Literature"
+  },
+  {
+    "id": 234,
+    "text": "One must imagine Sisyphus happy.",
+    "author": "Albert Camus",
+    "difficulty": "medium",
+    "source": "The Myth of Sisyphus"
+  },
+  {
+    "id": 235,
+    "text": "Man is least himself when he talks in his own person.",
+    "author": "Oscar Wilde",
+    "difficulty": "medium",
+    "source": "Literature"
+  },
+  {
+    "id": 236,
+    "text": "The eye sees only what the mind is prepared to comprehend.",
+    "author": "Henri Bergson",
+    "difficulty": "medium",
+    "source": "Philosophy"
+  },
+  {
+    "id": 237,
+    "text": "Tradition is the illusion of permanence.",
+    "author": "Woody Allen",
+    "difficulty": "medium",
+    "source": "Attributed"
+  },
+  {
+    "id": 238,
+    "text": "The future belongs to those who prepare for it today.",
+    "author": "Malcolm X",
+    "difficulty": "medium",
+    "source": "Civil Rights"
+  },
+  {
+    "id": 239,
+    "text": "Between stimulus and response there is a space.",
+    "author": "Viktor Frankl",
+    "difficulty": "medium",
+    "source": "Man's Search for Meaning"
+  },
+  {
+    "id": 240,
+    "text": "What is history but a fable agreed upon?",
+    "author": "Napoleon Bonaparte",
+    "difficulty": "medium",
+    "source": "Attributed"
+  }
+]
